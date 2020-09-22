@@ -1,2 +1,4 @@
 ### Ideias de projetos
-* Previsão do tempo
+* Tier 1
+  * Previsão do tempo (JS, Ruby, Python, java, php, c#)
+  * Contador até data (JS, Ruby, Python, java, php, c#)
